@@ -9,6 +9,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [Backend App Link](#backend)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -32,6 +33,11 @@
 # 📖 Hello React Frontedn <a name="about-project"></a>
 
 **Rails with React** is the frontend application for the [Hello Rails Backend App](https://github.com/RoyJumah/hello-rails-back-end)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# Backend App Link <a name ='backend'></a>
+[Backend App Link](https://github.com/RoyJumah/hello-rails-back-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
